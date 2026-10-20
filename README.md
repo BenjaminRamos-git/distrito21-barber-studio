@@ -25,4 +25,4 @@ La primera tarjeta ya usa `img/corte-principal.jpg`. Algunas otras fotos y las i
 
 ## Ver la página localmente
 
-Abre `index.html` con Live Server desde VS Code. Para que otras personas puedan verla, hay que publicar el proyecto en un alojamiento web estático y compartir el enlace público.
+Abre `index.html` con Live Server desde VS Code. Para que otras personas puedan verla, el proyecto esta publicado en 'https://distrito21-barber-studio.netlify.app'
